@@ -21,7 +21,7 @@
 			<p>Starting NPC:	Ardashir</p>
 			<p>Starting Location:	Alpha Quadrant, Azys Lla (x7,y11)</p>
 			<p> Syndony in Mor Dhona (x22,y5) will trade luminous crystals for Astral Nodule and Umbral Nodule.</p>
-			<div>Farm Heavensward Fates for luminous Crystals</p>
+			<p>Farm Heavensward Fates for luminous Crystals</p>
 				<table class="table">
 					<thead><td><h4>Zone</h4></td><td><h4>Luminous Crystal<h4></td></thead>
 					<tbody>

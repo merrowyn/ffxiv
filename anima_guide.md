@@ -23,17 +23,7 @@
 			------------ | -------------
 			Content from cell 1 | Content from cell 2
 			Content in the first column | Content in the second column
-				<table class="table">
-					<thead><td><h4>Zone</h4></td><td><h4>Luminous Crystal<h4></td></thead>
-					<tbody>
-						<tr><td>The Sea of Clouds</td><td>Luminous Wind Crystal</td></tr>
-						<tr><td>Azys Lla</td><td>Luminous Fire Crystal</td></tr>
-						<tr><td>The Churning Mists</td><td>Luminous Lightning Crystal</td></tr>
-						<tr><td>Coerthas Western Highlands</td><td>Luminous Ice Crystal</td></tr>
-						<tr><td>The Dravanian Forelands</td><td>Luminous Earth Crystal</td></tr>
-						<tr><td>The Dravanian Hinterlands</td><td>Luminous Water Crystal</td></tr>
-					</tbody>
-				</table>
+				
 				<p>Crystals can drop from any Fate in the zone regardless of level, but you must get a gold rating in the Fate to have a chance for the crystal to drop.</p>
 				<p>You need one of each type to complete this phase. You can gather multiples of each if you plan on completing multiple animas. They will stay in your inventory until you use them or get rid of the extras.</p>
 			</div>

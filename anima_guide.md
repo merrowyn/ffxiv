@@ -19,6 +19,10 @@
 			<p>Starting Location:	Alpha Quadrant, Azys Lla (x7,y11)</p>
 			<p> Syndony in Mor Dhona (x22,y5) will trade luminous crystals for Astral Nodule and Umbral Nodule.</p>
 			<p>Farm Heavensward Fates for luminous Crystals</p>
+			First Header | Second Header
+			------------ | -------------
+			Content from cell 1 | Content from cell 2
+			Content in the first column | Content in the second column
 				<table class="table">
 					<thead><td><h4>Zone</h4></td><td><h4>Luminous Crystal<h4></td></thead>
 					<tbody>
